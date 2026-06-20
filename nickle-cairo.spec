@@ -2,7 +2,7 @@ Summary:	Cairo-5c - Nickle bindings for the Cairo graphics library
 Summary(pl.UTF-8):	Cairo-5c - wiązania języka Nickle do biblioteki graficznej Cairo
 Name:		nickle-cairo
 Version:	1.20
-Release:	1
+Release:	2
 License:	LGPL v2.1 or MPL v1.1
 Group:		Libraries
 Source0:	https://cairographics.org/releases/cairo-5c-%{version}.tar.gz
